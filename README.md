@@ -9,5 +9,13 @@ User will login to the application using ( login api )
 user will show his/her gallery images using ( my gallery api)
 user can upload new image in his/her gallery using (upload api)
 
-[![Watch the video](https://flutter.prominaagency.com/logo.png)](https://github.com/ahmedamer210/MyGalleryApp/blob/master/WhatsApp%20Video%202024-05-29%20at%201.56.17%20AM.mp4)
+## Watch the video
+
+
+[![Watch the video](https://i9.ytimg.com/vi/hsFBxQ7WYWo/mqdefault.jpg)](https://youtube.com/shorts/hsFBxQ7WYWo)
+
+## Download APK
+
+
+[![download the apk](https://upload.wikimedia.org/wikipedia/commons/1/11/Download_apk.png)](https://github.com/ahmedamer210/MyGalleryApp/blob/master/my%20gallery%20app.apk)
 
