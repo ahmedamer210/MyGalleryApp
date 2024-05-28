@@ -5,9 +5,10 @@ My Gallery app is an application that stores my images and can upload my new ima
 ## Getting Started
 
 Task Details
-User will login to the application using ( login api )
-user will show his/her gallery images using ( my gallery api)
-user can upload new image in his/her gallery using (upload api)
+
+- User will login to the application using ( login api )
+- user will show his/her gallery images using ( my gallery api)
+- user can upload new image in his/her gallery using (upload api)
 
 ## Watch the video
 
