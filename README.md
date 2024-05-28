@@ -12,7 +12,7 @@ user can upload new image in his/her gallery using (upload api)
 ## Watch the video
 
 
-[![Watch the video](https://i9.ytimg.com/vi/hsFBxQ7WYWo/mqdefault.jpg)](https://youtube.com/shorts/hsFBxQ7WYWo)
+[![Watch the video](https://i9.ytimg.com/vi/hsFBxQ7WYWo/mqdefault.jpg?sqp=CKDN2bIG-oaymwEoCMACELQB8quKqQMcGADwAQH4AdYBgALgA4oCDAgAEAEYEyBCKH8wDw==&rs=AOn4CLAG3a3FNyYkrNKjATNJlxPSX3jPoA)](https://youtube.com/shorts/hsFBxQ7WYWo)
 
 ## Download APK
 
